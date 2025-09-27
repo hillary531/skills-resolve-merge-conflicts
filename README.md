@@ -17,7 +17,7 @@ _Learn why conflicts happen and how to resolve them._
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+  这是 main 分支的更改。
 
 ## Step 2: Resolve a merge conflict
 
